@@ -5,7 +5,7 @@ This clock displays the current time in 12-hour format with a neon glassmorphism
 
 🖼️ Preview
 
-![Digital Clock](https://raw.githubusercontent.com/haokipstevin-rgb/8.-Digital-Clock-/refs/heads/main/Preview.png)
+![Digital Clock](https://github.com/Saiyonbasorokhaibam/10.Digital-Clock/blob/main/Preview.png?raw=true)
 
 ⚙️ Features
 
@@ -53,3 +53,4 @@ with smooth pulsing light effects and a glassy finish ✨
 🧑‍💻 Author
 
 Saiyon Basorokhaibam
+
